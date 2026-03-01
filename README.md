@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <strong>Backend Developer</strong> · .NET Core · Microservicios · SQL Server
+  <strong>Software Developer</strong> · .NET Core · Robótica y Automatización · Desarrollo Móvil
 </h3>
 
 <p align="center">
@@ -25,12 +25,23 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Sobre mí
 
-Soy un **Backend Developer** en constante evolución, apasionado por la arquitectura de software, las APIs bien diseñadas y los sistemas escalables.
+Soy un **Software Developer** en constante evolución, apasionado por la arquitectura de software, la robótica de servicio y el desarrollo de aplicaciones que generen un impacto real. 
 
-- 🔭 Actualmente trabajo con **.NET Core**, **Entity Framework** y **SQL Server**.
-- 🌱 Aprendiendo **microservicios**, **Docker** y patrones como **CQRS**.
-- ⚡ Me encanta resolver problemas complejos con código limpio y buenas prácticas.
-- 📫 Contáctame: **arom.ortega@ejemplo.com** (cámbialo por tu correo real).
+- 🔭 Actualmente enfocado en el desarrollo de soluciones integrales, desde el backend con **.NET Core** hasta la integración de hardware y software en robótica.
+- 💼 Desarrollador en **Glexco Robotics & Automation**, trabajando con tecnologías de vanguardia e inteligencia artificial.
+- 🌱 Siempre aprendiendo y aplicando nuevas arquitecturas, patrones de diseño y microservicios.
+- ⚡ Me encanta liderar proyectos, resolver problemas complejos con código limpio y llevar ideas a producción.
+- 📫 Contáctame: **arom.ortega@ejemplo.com** *(actualiza tu correo aquí)*.
+
+---
+
+## 💼 Experiencia Laboral
+
+### **Software Developer** | *Glexco Robotics & Automation*
+> *Noviembre 2025 - Actualidad*
+- Desarrollo e integración de software para robótica de servicio.
+- Trabajo directo con el robot humanoide **Cruzr**, implementando sistemas avanzados de **navegación autónoma**, **comandos de voz** y **reconocimiento facial**.
+- Gestión de conexiones ADB y depuración de sistemas embebidos para asegurar el flujo correcto entre el hardware y las aplicaciones.
 
 ---
 
@@ -40,10 +51,9 @@ Soy un **Backend Developer** en constante evolución, apasionado por la arquitec
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -55,41 +65,41 @@ Soy un **Backend Developer** en constante evolución, apasionado por la arquitec
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">Sistema de Microservicios SaludVital</h3>
+      <h3 align="center">SIAE</h3>
       <div align="center">
-        <a href="https://github.com/AromOrtega/saludvital-microservices" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=saludvital-microservices&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+        <a href="https://github.com/AromOrtega/SIAE" target="_blank">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=SIAE&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>.NET • Spring Cloud • RabbitMQ</strong> - Arquitectura distribuida con servicios conectados.</p>
+        <p><strong>Sistema Inteligente de Asistencia Emocional</strong> - Plataforma inteligente orientada al monitoreo emocional y salud mental en el ámbito académico.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">API REST con autenticación JWT</h3>
+      <h3 align="center">Cat Breeds App</h3>
       <div align="center">
-        <a href="https://github.com/AromOrtega/api-jwt-dotnet" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=api-jwt-dotnet&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+        <a href="https://github.com/AromOrtega/CatBreedsApp" target="_blank">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CatBreedsApp&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>.NET Core • SQL Server</strong> - API segura con login y roles protegidos.</p>
+        <p><strong>Desarrollo Móvil (Android/iOS)</strong> - Aplicación diseñada para un refugio de animales, permitiendo visualizar razas felinas y gestionar procesos de adopción.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">CRUD completo con EF Core</h3>
+      <h3 align="center">Integración Cruzr Robot</h3>
       <div align="center">
-        <a href="https://github.com/AromOrtega/crud-efcore" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=crud-efcore&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+        <a href="https://github.com/AromOrtega/CruzrIntegration" target="_blank">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CruzrIntegration&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>.NET Core • SQL Server</strong> - Backend completo con patterns limpios.</p>
+        <p><strong>Robótica y Automatización</strong> - Sistema de control de navegación, comandos de voz y reconocimiento facial para robot de servicio humanoide.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Dockerizado para producción</h3>
+      <h3 align="center">Proyecto EFSRT en IES</h3>
       <div align="center">
-        <a href="https://github.com/AromOrtega/docker-compose-example" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=docker-compose-example&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+        <a href="https://github.com/AromOrtega/EFSRT-Project" target="_blank">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=EFSRT-Project&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>Docker • Compose</strong> - Contenerización de sistemas para entornos locales y despliegue.</p>
+        <p><strong>Coordinación y Desarrollo</strong> - Gestión integral y coordinación técnica de entregables para proyecto grupal académico de alto impacto.</p>
       </div>
     </td>
   </tr>
@@ -131,7 +141,7 @@ Soy un **Backend Developer** en constante evolución, apasionado por la arquitec
 ## 📫 ¿Hablamos?
 
 <p align="center">
-  Si te interesa colaborar en algún proyecto o simplemente charlar sobre tecnología, ¡estaré encantado de leerte!
+  Si te interesa colaborar en algún proyecto o simplemente charlar sobre tecnología y robótica, ¡estaré encantado de leerte!
 </p>
 
 <p align="center">
