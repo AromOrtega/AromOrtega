@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RHIKGQwB1X6dY28vUu/giphy.gif" width="100%" alt="Cyberpunk City Animation">
+  <img src="https://user-images.githubusercontent.com/130306289/228108153-f75e2eb8-947b-488d-a489-0820bc0a649a.gif" width="100%" alt="Cyberpunk City Animation">
 </p>
 
 <h3 align="center">
@@ -56,7 +56,7 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
 - 💼 Operando como Desarrollador en **Glexco Robotics & Automation**, trabajando con tecnologías de vanguardia e inteligencia artificial.
 - 🌱 Siempre hackeando mis propios conocimientos: aplicando nuevas arquitecturas, patrones de diseño y microservicios.
 - ⚡ Me encanta liderar proyectos, resolver problemas complejos con código limpio y llevar ideas a producción.
-- 📫 Establecer conexión: **arom.ortega@ejemplo.com** *(actualiza tu correo aquí)*.
+- 📫 Establecer conexión: **arom.ortega@ejemplo.com** *(acuérdate de cambiar esto por tu correo real)*.
 
 ---
 
