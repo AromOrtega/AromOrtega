@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=6A9CF5&center=true&vCenter=true&width=435&lines=👋+Hola%2C+soy+Arom;Backend+Developer;.NET+Core+%7C+Microservicios;SQL+Server+%7C+Docker" alt="Typing SVG" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514734/7421/typingcat.gif?1643514734" width="40"> 
+  Arom Amet Ortega Pacheco
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514734/7421/typingcat.gif?1643514734" width="40">
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Arom Amet Ortega Pacheco
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <strong>Backend Developer</strong> · .NET Core · Microservicios · SQL Server
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arom-ortega-177401335">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:arom.ortega@ejemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/AromOrtega">
@@ -42,7 +42,7 @@ Soy un **Backend Developer** en constante evolución, apasionado por la arquitec
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
