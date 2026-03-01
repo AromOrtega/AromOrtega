@@ -1,11 +1,13 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/LmNTrbyf52814mFv86/giphy.gif" width="60"> 
   Arom Amet Ortega Pacheco
-  <img src="https://media.giphy.com/media/LmNTrbyf52814mFv86/giphy.gif" width="60">
 </h1>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animación de programación">
+</p>
+
 <h3 align="center">
-  <strong>Backend Developer</strong> · .NET Core · Microservicios · SQL Server
+  <strong>Software Developer</strong> · .NET Core · Robótica y Automatización · Desarrollo Móvil
 </h3>
 
 <p align="center">
@@ -42,11 +44,10 @@
     <p style="font-size: 0.8em; color: #8b949e;">Oct 24, 2025 - Oct 29, 2025</p>
   </div>
 </div>
-<img src="https://media.giphy.com/media/5ZeaL24gYJ1d1877wW/giphy.gif" width="100%">
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Sobre mí
+## 👨‍💻 Sobre mí
 
 Soy un **Software Developer** en constante evolución, apasionado por la arquitectura de software, la robótica de servicio y el desarrollo de aplicaciones que generen un impacto real.
 
@@ -91,18 +92,18 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
       <h3 align="center">SIAE</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/SIAE" target="_blank">
-          <img src="https://media.giphy.com/media/13FrpeVH09ZDXM8N7C/giphy.gif" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=SIAE&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>Sistema Inteligente de Asistencia Emocional</strong> - Plataforma inteligente orientada al monitoreo emocional y salud mental en el ámbito académico.</p>
+        <p><strong>Sistema Inteligente de Asistencia Emocional</strong><br>Plataforma orientada al monitoreo emocional y salud mental académica.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Cat Breeds App</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/CatBreedsApp" target="_blank">
-          <img src="https://media.giphy.com/media/v47H7O3E2KFRW/giphy.gif" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CatBreedsApp&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>Desarrollo Móvil (Android/iOS)</strong> - Aplicación diseñada para un refugio de animales, permitiendo visualizar razas felinas y gestionar procesos de adopción.</p>
+        <p><strong>Desarrollo Móvil (Android/iOS)</strong><br>App para un refugio de animales, visualización de razas y adopción.</p>
       </div>
     </td>
   </tr>
@@ -111,18 +112,18 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
       <h3 align="center">Integración Cruzr Robot</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/CruzrIntegration" target="_blank">
-          <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CruzrIntegration&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>Robótica y Automatización</strong> - Sistema de control de navegación, comandos de voz y reconocimiento facial para robot de servicio humanoide.</p>
+        <p><strong>Robótica y Automatización</strong><br>Navegación, comandos de voz y reconocimiento facial para humanoide.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Proyecto EFSRT en IES</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/EFSRT-Project" target="_blank">
-          <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=EFSRT-Project&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
         </a>
-        <p><strong>Coordinación y Desarrollo</strong> - Gestión integral y coordinación técnica de entregables para proyecto grupal académico de alto impacto.</p>
+        <p><strong>Coordinación y Desarrollo</strong><br>Gestión y coordinación técnica para proyecto académico de impacto.</p>
       </div>
     </td>
   </tr>
@@ -132,22 +133,22 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
 
 ## 📊 Estadísticas GitHub
 <p align="center">
-  <img src="https://media.giphy.com/media/5ZeaL24gYJ1d1877wW/giphy.gif" width="48%" />
-  <img src="https://media.giphy.com/media/13FrpeVH09ZDXM8N7C/giphy.gif" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
 ## 🏆 Logros
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YoV54ZT606Y_44/giphy.gif" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AromOrtega&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15" alt="Trofeos de GitHub" />
 </p>
 
 ---
 
 ## 🐍 Contribuciones
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHON4S9d7_5K0zU/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/AromOrtega/AromOrtega/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 *La animación de la serpiente se actualiza automáticamente con mis contribuciones diarias.*
@@ -170,10 +171,4 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
   <a href="https://github.com/AromOrtega">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <strong>¡Siempre aprendiendo, siempre creando!</strong>
 </p>
