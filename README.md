@@ -1,65 +1,66 @@
 <h1 align="center">
-  Arom Amet Ortega Pacheco
+  ⚡ Arom Amet Ortega Pacheco ⚡
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animación de programación">
+  <img src="https://media.giphy.com/media/RHIKGQwB1X6dY28vUu/giphy.gif" width="100%" alt="Cyberpunk City Animation">
 </p>
 
 <h3 align="center">
-  <strong>Software Developer</strong> · .NET Core · Robótica y Automatización · Desarrollo Móvil
+  <strong>[ Software Developer // Netrunner ]</strong> <br> 
+  <span style="color: #00FFFF;">.NET Core</span> · <span style="color: #FF00FF;">Robótica y Automatización</span> · <span style="color: #39FF14;">Desarrollo Móvil</span>
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arom-ortega-177401335">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0D1117&color=FF00FF" alt="LinkedIn" />
   </a>
   <a href="mailto:arom.ortega@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF&labelColor=0D1117&color=00FFFF" alt="Gmail" />
   </a>
   <a href="https://github.com/AromOrtega">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=FF00FF" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AromOrtega&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AromOrtega&style=for-the-badge&color=00FFFF&labelColor=0D1117" alt="Profile views" />
 </p>
 
 ---
 
-<div style="display: flex; justify-content: space-around; align-items: center; border: 1px solid #1a1a1a; padding: 20px; border-radius: 10px; background-color: #0d1117;">
+<div style="display: flex; justify-content: space-around; align-items: center; border: 1px solid #FF00FF; padding: 20px; border-radius: 10px; background-color: #050505; box-shadow: 0 0 10px #FF00FF;">
   <div style="text-align: center;">
-    <h2>138</h2>
-    <p style="font-size: 0.9em; color: #6a9cf5;">Total Contributions</p>
+    <h2 style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">138</h2>
+    <p style="font-size: 0.9em; color: #FF00FF;">Total Contributions</p>
     <p style="font-size: 0.8em; color: #8b949e;">Mar 4, 2023 - Present</p>
   </div>
   <div style="text-align: center;">
-    <div style="border: 4px solid #cc2927; border-radius: 50%; padding: 15px; width: 60px; height: 60px; display: flex; justify-content: center; align-items: center;">
-      <h2>1</h2>
+    <div style="border: 4px solid #39FF14; border-radius: 50%; padding: 15px; width: 60px; height: 60px; display: flex; justify-content: center; align-items: center; box-shadow: 0 0 10px #39FF14;">
+      <h2 style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">1</h2>
     </div>
-    <p style="font-size: 0.9em; color: #cc2927;">Current Streak</p>
+    <p style="font-size: 0.9em; color: #39FF14;">Current Streak</p>
     <p style="font-size: 0.8em; color: #8b949e;">Feb 28</p>
   </div>
   <div style="text-align: center;">
-    <h2>6</h2>
-    <p style="font-size: 0.9em; color: #6a9cf5;">Longest Streak</p>
+    <h2 style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">6</h2>
+    <p style="font-size: 0.9em; color: #FF00FF;">Longest Streak</p>
     <p style="font-size: 0.8em; color: #8b949e;">Oct 24, 2025 - Oct 29, 2025</p>
   </div>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🕶️ Sobre mí // System Logs
 
 Soy un **Software Developer** en constante evolución, apasionado por la arquitectura de software, la robótica de servicio y el desarrollo de aplicaciones que generen un impacto real.
 
-- 🔭 Actualmente enfocado en el desarrollo de soluciones integrales, desde el backend con **.NET Core** hasta la integración de hardware y software en robótica.
-- 💼 Desarrollador en **Glexco Robotics & Automation**, trabajando con tecnologías de vanguardia e inteligencia artificial.
-- 🌱 Siempre aprendiendo y aplicando nuevas arquitecturas, patrones de diseño y microservicios.
+- 🔭 Actualmente conectado al desarrollo de soluciones integrales, desde el backend con **.NET Core** hasta la integración de hardware y software en robótica.
+- 💼 Operando como Desarrollador en **Glexco Robotics & Automation**, trabajando con tecnologías de vanguardia e inteligencia artificial.
+- 🌱 Siempre hackeando mis propios conocimientos: aplicando nuevas arquitecturas, patrones de diseño y microservicios.
 - ⚡ Me encanta liderar proyectos, resolver problemas complejos con código limpio y llevar ideas a producción.
-- 📫 Contáctame: **arom.ortega@ejemplo.com** *(actualiza tu correo aquí)*.
+- 📫 Establecer conexión: **arom.ortega@ejemplo.com** *(actualiza tu correo aquí)*.
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Experiencia Laboral // Corporate Data
 
 ### **Software Developer** | *Glexco Robotics & Automation*
 > *Noviembre 2025 - Actualidad*
@@ -69,30 +70,30 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico // Cyberware
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=00FFFF&border=FF00FF" />
+  <img src="https://img.shields.io/badge/.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF00FF" />
 </p>
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Proyectos Destacados // Main Executables
 
-<table align="center">
+<table align="center" style="border-color: #FF00FF;">
   <tr>
     <td width="50%">
       <h3 align="center">SIAE</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/SIAE" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=SIAE&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=SIAE&theme=radical&hide_border=true" />
         </a>
         <p><strong>Sistema Inteligente de Asistencia Emocional</strong><br>Plataforma orientada al monitoreo emocional y salud mental académica.</p>
       </div>
@@ -101,7 +102,7 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
       <h3 align="center">Cat Breeds App</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/CatBreedsApp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CatBreedsApp&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CatBreedsApp&theme=radical&hide_border=true" />
         </a>
         <p><strong>Desarrollo Móvil (Android/iOS)</strong><br>App para un refugio de animales, visualización de razas y adopción.</p>
       </div>
@@ -112,7 +113,7 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
       <h3 align="center">Integración Cruzr Robot</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/CruzrIntegration" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CruzrIntegration&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=CruzrIntegration&theme=radical&hide_border=true" />
         </a>
         <p><strong>Robótica y Automatización</strong><br>Navegación, comandos de voz y reconocimiento facial para humanoide.</p>
       </div>
@@ -121,7 +122,7 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
       <h3 align="center">Proyecto EFSRT en IES</h3>
       <div align="center">
         <a href="https://github.com/AromOrtega/EFSRT-Project" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=EFSRT-Project&theme=tokyonight&bg_color=0D1117&title_color=6A9CF5&icon_color=6A9CF5&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AromOrtega&repo=EFSRT-Project&theme=radical&hide_border=true" />
         </a>
         <p><strong>Coordinación y Desarrollo</strong><br>Gestión y coordinación técnica para proyecto académico de impacto.</p>
       </div>
@@ -131,44 +132,44 @@ Soy un **Software Developer** en constante evolución, apasionado por la arquite
 
 ---
 
-## 📊 Estadísticas GitHub
+## 📊 Estadísticas GitHub // System Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
-## 🏆 Logros
+## 🏆 Logros // Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AromOrtega&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AromOrtega&theme=radical&no-frame=true&row=2&column=4&margin-w=15" alt="Trofeos de GitHub" />
 </p>
 
 ---
 
-## 🐍 Contribuciones
+## 🐍 Contribuciones // Activity Matrix
 <p align="center">
   <img src="https://raw.githubusercontent.com/AromOrtega/AromOrtega/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
-*La animación de la serpiente se actualiza automáticamente con mis contribuciones diarias.*
+*<span style="color: #00FFFF;">> System msg: La animación de la serpiente se actualiza automáticamente con mis contribuciones diarias.</span>*
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 ¿Hablamos? // Open Comms Channel
 
 <p align="center">
-  Si te interesa colaborar en algún proyecto o simplemente charlar sobre tecnología y robótica, ¡estaré encantado de leerte!
+  Si te interesa colaborar en algún proyecto o simplemente charlar sobre tecnología y robótica, ¡establece una conexión!
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arom-ortega-177401335">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF&border=FF00FF" />
   </a>
   <a href="mailto:arom.ortega@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF&border=00FFFF" />
   </a>
   <a href="https://github.com/AromOrtega">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&border=FF00FF" />
   </a>
 </p>
