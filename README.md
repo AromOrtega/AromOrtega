@@ -9,6 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/arom-ortega-177401335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aromortega05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AromOrtega"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/📍_Perú-D91E18?style=for-the-badge" alt="Perú"/>
   <img src="https://komarev.com/ghpvc/?username=AromOrtega&label=Visitas&color=2F81F7&style=for-the-badge" alt="Visitas"/>
 </p>
@@ -22,60 +23,112 @@
 ```csharp
 public class AromOrtega
 {
-    public string Rol        => "Software Developer @ Glexco Robotics & Automation";
-    public string Ubicacion  => "Perú 🇵🇪";
-    public string[] Backend  => new[] { "C#", ".NET Core", "SQL Server" };
+    public string   Rol         => "Software Developer @ Glexco Robotics & Automation";
+    public string   Ubicacion   => "Perú 🇵🇪";
+    public string[] Backend     => new[] { "C#", ".NET Core", "SQL Server" };
     public string[] Aprendiendo => new[] { "Microservicios", "CQRS", "Docker", "Arquitectura Limpia" };
-    public string Filosofia  => "Código limpio hoy, menos problemas mañana.";
+    public string   Filosofia   => "Código limpio hoy, menos problemas mañana.";
 }
-🔭 Combino backends sólidos en .NET con hardware robótico real.
-🌱 Profundizando en arquitecturas distribuidas y patrones de diseño.
-💬 Pregúntame sobre .NET, APIs REST, microservicios o robots de servicio.
-🏢 Experiencia
-🤖 Software Developer — Glexco Robotics & Automation
-Noviembre 2025 – Actualidad
+```
 
-Desarrollo de aplicaciones para el robot humanoide de servicio Cruzr.
-Implementación de navegación autónoma, comandos de voz y reconocimiento facial.
-Gestión de conexiones ADB y depuración de sistemas embebidos para una comunicación estable entre hardware y aplicación.
-🛠️ Stack Tecnológico
+- 🔭 Combino **backends sólidos en .NET** con **hardware robótico real**.
+- 🌱 Profundizando en **arquitecturas distribuidas** y **patrones de diseño**.
+- 💬 Pregúntame sobre **.NET, APIs REST, microservicios o robots de servicio**.
+- ⚡ Liderar con el ejemplo y aportar valor real en cada despliegue.
+
+---
+
+## 🏢 Experiencia
+
+### 🤖 Software Developer — Glexco Robotics & Automation
+**Noviembre 2025 – Actualidad**
+
+- Desarrollo de aplicaciones para el robot humanoide de servicio **Cruzr**.
+- Implementación de **navegación autónoma**, **comandos de voz** y **reconocimiento facial**.
+- Gestión de conexiones **ADB** y depuración de sistemas embebidos para una comunicación estable entre hardware y aplicación.
+
+---
+
+## 🛠️ Stack Tecnológico
+
 <div align="center">
-Backend<br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin" />
 
-Bases de datos y DevOps<br>
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,linux" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="48" />
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin" alt="Backend" />
 
-Frontend y móvil<br>
-<img src="https://skillicons.dev/icons?i=angular,ts,androidstudio" />
+**Bases de datos y DevOps**<br>
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,linux" alt="DevOps" />
+<br>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
-Herramientas<br>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman" />
+**Frontend y móvil**<br>
+<img src="https://skillicons.dev/icons?i=angular,ts,androidstudio" alt="Frontend" />
+
+**Herramientas**<br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman" alt="Herramientas" />
 
 </div>
-📁 Proyectos Destacados
-Proyecto	Descripción	Tecnologías
-🧠 SIAE	Sistema Inteligente de Asistencia Emocional para monitorear la salud mental en instituciones académicas.	.NET SQL Server
-🩺 MicroSalud	Backend de salud basado en microservicios con frontend web.	.NET Microservicios Docker
-🤖 Cruzr Integration	Navegación autónoma y reconocimiento facial en un robot humanoide real.	Android ADB IA
-🐱 Cat Breeds App	App móvil para un refugio: catálogo de razas y proceso de adopción.	Android iOS
-🎓 EFSRT Project	Coordinación técnica y gestión de entregables de un proyecto académico.	Gestión Liderazgo
-📈 Estadísticas
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AromOrtega&theme=tokyonight&hide_border=true&background=00000000" /> <img src="https://streak-stats.demolab.com/?user=AromOrtega&theme=default&hide_border=true" alt="GitHub Streak" /> </picture> </div>
-🐍 Contribuciones
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AromOrtega/AromOrtega/output/github-contribution-grid-snake-dark.svg" /> <img src="https://raw.githubusercontent.com/AromOrtega/AromOrtega/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" /> </picture> </div>
+
+---
+
+## 📁 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🧠 [**SIAE**](https://github.com/AromOrtega/SIAE) | Sistema Inteligente de Asistencia Emocional para monitorear la salud mental en instituciones académicas. | `.NET` `SQL Server` |
+| 🩺 [**MicroSalud**](https://github.com/AromOrtega/MicroSalud) | Backend de salud basado en microservicios con frontend web. | `.NET` `Microservicios` `Docker` |
+| 🤖 [**Cruzr Integration**](https://github.com/AromOrtega/CruzrIntegration) | Navegación autónoma y reconocimiento facial en un robot humanoide real. | `Android` `ADB` `IA` |
+| 🐱 [**Cat Breeds App**](https://github.com/AromOrtega/CatBreedsApp) | App móvil para un refugio: catálogo de razas y proceso de adopción. | `Android` `iOS` |
+| 🎓 [**EFSRT Project**](https://github.com/AromOrtega/EFSRT-Project) | Coordinación técnica y gestión de entregables de un proyecto académico. | `Gestión` `Liderazgo` |
+
+---
+
+## 📈 Estadísticas
+
 <div align="center">
-🤝 ¿Hablamos?
-Siempre abierto a nuevos retos, proyectos y networking.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AromOrtega&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AromOrtega&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AromOrtega&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=AromOrtega&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AromOrtega/AromOrtega/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AromOrtega/AromOrtega/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</picture>
+<p><em>Mi historial de contribuciones consumido por una serpiente glotona. Se actualiza a diario.</em></p>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 ¿Hablamos?
+
+¡Mi bandeja de entrada siempre está abierta para nuevos retos, proyectos y networking!
 
 <a href="mailto:aromortega05@gmail.com"><img src="https://img.shields.io/badge/Contáctame-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contáctame"/></a>
 <a href="https://www.linkedin.com/in/arom-ortega-177401335"><img src="https://img.shields.io/badge/Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-</div> ```
-.github/workflows/snake.yml
-Créalo en tu repo de perfil, AromOrtega/AromOrtega:
-
+</div>
 
 name: Generate Snake
 
@@ -106,3 +159,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
